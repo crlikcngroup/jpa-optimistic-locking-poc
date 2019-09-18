@@ -1,4 +1,4 @@
-package dk.eurofunk.jpaoptimisticlockingpoc;
+package dk.demo.jpaoptimisticlockingpoc;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
